@@ -78,6 +78,13 @@ Steps to contribute:
     git clone https://github.com/your-username/todo-list.git
 ```
 
+## Author
+
+**Pranav Arora**
+
+- [GitHub Profile](https://github.com/Pranav23Arora)
+
+
 
 
 
